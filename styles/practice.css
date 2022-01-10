@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  background-color: rgb(189, 236, 171);
+  margin: 30px;
+}
+img {
+  height: 100px;
+  width: 80px;
+}
+h1 {
+  font-family: sans-serif;
+  color: forestgreen;
+  font-weight: bold;
+}
+p {
+  font-family: "The Nautigal", cursive;
+  color: firebrick;
+  font-size: 30px;
+}
+li{
+  list-style: none;
+}
+
+a {
+  color: royalblue;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(255, 103, 2);
+  text-decoration: underline;
+}
+
+#my_header {
+  font-family: "Pacifico", cursive;
+  font-weight: bold;
+  font-size: xx-large;
+}
+#challenge_content {
+  font-family: "Patrick Hand", cursive;
+  font-size: 32px;
+  font-weight: bold;
+}
+#home-link {
+  font-size: 25px;
+  font-family: "Pacifico", cursive;
+}
