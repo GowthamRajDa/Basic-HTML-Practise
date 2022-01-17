@@ -3,11 +3,18 @@ body {
   background-color: rgb(189, 236, 171);
   margin: 30px;
 }
-img {
+#troppy {
   height: 100px;
   width: 80px;
+  background-color: rgb(201, 80, 0);
+  padding: 20px 30px;
+  border: 5px;
+  border-style: solid;
+  border-radius: 250px;
+  margin-bottom: -70px;
 }
 h1 {
+  margin-top: 50px;
   font-family: sans-serif;
   color: forestgreen;
   font-weight: bold;
@@ -17,8 +24,24 @@ p {
   color: firebrick;
   font-size: 30px;
 }
-li{
+li {
   list-style: none;
+  background-color: darksalmon;
+  margin: 15px 150px;
+  border: 10px;
+  border-radius: 36px;
+  padding: 5px;
+  box-shadow:3px 3px 4px rgba(0, 0, 0, 0.5);
+}
+.imp {
+  background-color: rgb(255, 103, 2);
+}
+ul {
+  width: auto;
+  margin: 0px 100px;
+  font-family: cursive;
+  padding: 12px 24px;
+  
 }
 
 a {
@@ -43,4 +66,41 @@ a:hover {
 #home-link {
   font-size: 25px;
   font-family: "Pacifico", cursive;
+}
+
+h2 {
+  text-decoration: underline;
+  margin: 2px;
+  font-size: large;
+}
+h2:hover {
+  text-decoration-color: rgb(0, 62, 248);
+  color: rgb(0, 64, 255);
+  border: 5px;
+  border: tomato;
+}
+
+ul p {
+  color: aliceblue;
+  font-weight: bold;
+  margin: 10px;
+  font-size: large;
+  margin: auto;
+}
+#date-day{
+  color:rgb(7, 77, 48);
+}
+header p{
+  font-family: fantasy;
+  font-size: medium;
+  color: black;
+  
+}
+
+#main-body{
+  padding: 20px 30px;
+  margin: 0px 250px;
+  border: 5px;
+  border-style: solid;
+  background-color: aquamarine;
 }
