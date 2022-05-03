@@ -1,2 +1,0 @@
-Admin,admin,01/01/1999,9999999999,admin@goldshop.com
-Customer,guestuser,01/01/2000,9999999999,guestuser@goldshop.com
